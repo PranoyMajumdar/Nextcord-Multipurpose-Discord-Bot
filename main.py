@@ -2,7 +2,9 @@ import nextcord, config, os
 from nextcord.ext import commands
 from nextcord import Embed
 
-bot = commands.Bot(command_prefix='#', intents=nextcord.Intents.default())
+intents = nextcord.Intents.default()
+intents.members = True
+bot = commands.Bot(command_prefix='#', intents=intents)
 
 @bot.event
 async def on_ready():
