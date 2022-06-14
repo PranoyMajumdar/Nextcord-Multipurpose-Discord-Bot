@@ -1,1 +1,1 @@
-TOKEN = 'OTY0OTM1NzU5NzAwMzI4NDU5.GprwcZ.L4zOXdvJVBPJwWKiOS0giHIOtOaGhM7ZiSOuEM'
+TOKEN = 'Your tokennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn'
