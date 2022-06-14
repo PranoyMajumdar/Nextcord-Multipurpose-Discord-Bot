@@ -1,1 +1,1 @@
-TOKEN = 'Your tokennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn'
+TOKEN = ''
